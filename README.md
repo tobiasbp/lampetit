@@ -1,2 +1,2 @@
-# lampetit
-A project to convert the Lampetit lamp by Louis Pulsen to a portable LED lamp.
+# Lampetit Conversion
+A project to convert the Lampetit lamp by Louis Poulsen to a portable LED lamp.
